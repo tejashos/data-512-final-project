@@ -132,7 +132,7 @@ Since the data I'll be using isn't in the tens of millions, this analysis will b
 
 # Human Centered Influences
 
-As a Data Scientist, I do not want to have a laser focus on compensation and personal achievements. The reason I chose this project is because it has the potential to help people better understand crime and take reasonable actions to prevent themselves from being victims.  
+As a Data Scientist, I do not want to have a laser focus on compensation and personal achievements. The reason I chose this project is because it has the potential to help people better understand crime and its occurrence, and take reasonable actions to prevent themselves from being victims.  
 
 Human centered design also plays a big role in methodology that I use for the analysis. The work will be fully reproducible and the data that I use will be easily available. The research can be viewed and reproduced by simply cloning the repo.
 
